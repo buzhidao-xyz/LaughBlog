@@ -1,0 +1,4 @@
+LaughBlog
+=========
+
+Laugh Blog
